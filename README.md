@@ -1,8 +1,16 @@
-- 👋 Hi, I’m @IgorGreb
-- 👀 I’m interested in programing
-- 📫 How to reach me. My @ - Grebenyukupp@gmail.com 
+# 👋 Hi, I'm Igor Grebenyuk!  
+🚀 Flutter Developer | Mobile & Backend Enthusiast  
 
-<!---
-IgorGreb/IgorGreb is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+## 👨‍💻 About Me  
+- 🔭 I’m currently working with Flutter & Dart  
+- 🌱 Learning Firebase, Riverpod, Cloud Messaging, Animations, BloC, Firebase
+- 💡 Passionate about building scalable apps  
+- 📫 How to reach me: [Email](mailto:Grebenyukupp@gmail.com)  
+
+## 🛠 Tech Stack  
+- Languages: Dart
+- Frameworks: Flutter 
+- Tools: Git, Firebase, VS Code  
+
+## 📊 GitHub Stats  
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=IgorGreb&show_icons=true&theme=radical)
