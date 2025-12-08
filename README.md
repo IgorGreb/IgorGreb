@@ -1,16 +1,29 @@
-# 👋 Hi, I'm Igor Grebenyuk!  
-🚀 Flutter Developer | Mobile & Backend Enthusiast  
+# 👋 Hi, I'm Igor Grebenyuk  
+🚀 Junior Flutter Developer | Mobile App Development  
 
 ## 👨‍💻 About Me  
-- 🔭 I’m currently working with Flutter & Dart  
-- 🌱 Learning Firebase, Riverpod, Cloud Messaging, Animations, BloC, Firebase
-- 💡 Passionate about building scalable apps  
-- 📫 How to reach me: [Email](mailto:Grebenyukupp@gmail.com)  
+I’m a Flutter developer focused on building clean, reliable mobile applications.  
+I enjoy working with modern Flutter architecture and continuously improving my skills.
+
+- 🔭 Currently building Flutter apps  
+- 🌱 Learning: Firebase, BLoC, Riverpod, Animations  
+- 💡 Interested in scalable app architecture  
+- 📫 Contact me: Grebenyukupp@gmail.com  
 
 ## 🛠 Tech Stack  
-- Languages: Dart
-- Frameworks: Flutter 
-- Tools: Git, Firebase, VS Code  
+- **Language:** Dart  
+- **Framework:** Flutter  
+- **State Management:** BLoC, Riverpod  
+- **Backend:** Firebase (Auth, Firestore basics)  
+- **Tools:** Git, VS Code  
+
+## 📱 Featured Projects  
+- 📌 **Recipe App** – Flutter app for browsing and managing recipes  
+  - Firebase authentication  
+  - Local storage (SharedPreferences)  
+  - Clean UI & simple architecture  
+
+*(More projects coming soon)*
 
 ## 📊 GitHub Stats  
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=IgorGreb&show_icons=true&theme=radical)
