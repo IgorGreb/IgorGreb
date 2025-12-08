@@ -23,7 +23,3 @@ I enjoy working with modern Flutter architecture and continuously improving my s
   - Local storage (SharedPreferences)  
   - Clean UI & simple architecture  
 
-*(More projects coming soon)*
-
-## 📊 GitHub Stats  
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=IgorGreb&show_icons=true&theme=radical)
