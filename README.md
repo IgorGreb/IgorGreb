@@ -17,9 +17,3 @@ I enjoy working with modern Flutter architecture and continuously improving my s
 - **Backend:** Firebase (Auth, Firestore basics)  
 - **Tools:** Git, VS Code  
 
-## 📱 Featured Projects  
-- 📌 **Recipe App** – Flutter app for browsing and managing recipes  
-  - Firebase authentication  
-  - Local storage (SharedPreferences)  
-  - Clean UI & simple architecture  
-
