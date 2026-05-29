@@ -24,6 +24,3 @@
 ## 📫 Як зі мною зв'язатись
 - **LinkedIn:** [Igor Grebenyuk](https://www.linkedin.com/in/igor-grebenyuk-662b3238a/)
 - **Email:** [grebenyukupp@gmail.com](mailto:grebenyukupp@gmail.com)
-
----
-⭐️ *Профіль згенеровано автоматично, але зроблено з душею.*
