@@ -17,8 +17,7 @@
 
 ## 📊 Статистика GitHub
 <p align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=IgorGreb&show_icons=true&theme=dark&bg_color=0d1117&border_color=30363d&icon_color=58a6ff&title_color=c9d1d9&text_color=8b949e" height="150" alt="Статистика" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=IgorGreb&layout=compact&theme=dark&bg_color=0d1117&border_color=30363d&title_color=c9d1d9&text_color=8b949e" height="150" alt="Топ мов" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=IgorGreb&theme=dark&background=0d1117&border=30363d&stroke=c9d1d9&ring=58a6ff&fire=58a6ff&currStreakNum=c9d1d9&currStreakLabel=8b949e&sideNums=c9d1d9&sideLabels=8b949e&dates=8b949e&hide_border=true" height="150" alt="GitHub Streak" />
 </p>
 
 ## 📫 Як зі мною зв'язатись
